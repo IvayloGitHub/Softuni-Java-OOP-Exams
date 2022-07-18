@@ -1,1 +1,1 @@
-# Softuni-Java-OOP-Exams
+# Softuni-Java-OOP-Solved-Exams
